@@ -1,7 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: root
- * Date: 3/22/16
- * Time: 11:59 PM
- */
+
+$host_ip = "62.75.216.31";
+$db_name = "gurucodes";
+
